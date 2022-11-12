@@ -6,5 +6,6 @@ Repositório das aulas e práticas do curso de Javascript Módulo 1 da DIO
 
 
 ## Operadores Lógicos
-![image](https://user-images.githubusercontent.com/43113952/200003431-5960ae54-c1b3-4723-8cfa-d5c5c49481d5.png)
+![image](https://user-images.githubusercontent.com/43113952/200125036-20c46b68-3c35-4ff4-9c72-731e31e02ed3.png)
+
 
