@@ -2,7 +2,7 @@
 
 function gerarListaSequencialPar(inicio, fim) {
     l = []
-    for(i=inicio ; i<fim+1; i++) {
+    for(let i=inicio ; i<fim+1; i++) {
         if (i % 2 === 0) {
             l.push(i);
         }

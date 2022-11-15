@@ -5,7 +5,7 @@
 
 function recuperacao(lista) {
     console.log("Médias que ficaram de recuperação");
-    for(i=0 ; i<lista.length ; i++) {
+    for(let i=0 ; i<lista.length ; i++) {
         if (lista[i] < 5) {
             console.log(lista[i]);
         }

@@ -6,7 +6,7 @@
 function maiorNota(lista) {
     let maior = 0;
     console.log("Maior Nota");
-    for(i=0 ; i<lista.length ; i++) {
+    for(let i=0 ; i<lista.length ; i++) {
         if(maior < lista[i]) {
             maior = lista[i];
         }
